@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "user_id": 0,
+    "items": [
+      {
+        "product_id": 0,
+        "quantity": 0
+      },
+      {
+        "product_id": 1,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "user_id": 2,
+    "items": [
+      {
+        "product_id": 10,
+        "quantity": 11
+      },
+      {
+        "product_id": 21,
+        "quantity": 31
+      }
+    ]
+  },
+  {
+    "id": 1779821261217,
+    "user_id": 1779816773759,
+    "items": [
+      {
+        "product_id": 1,
+        "quantity": 6
+      }
+    ]
+  }
+]

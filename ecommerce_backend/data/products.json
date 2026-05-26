@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "description": "OOP postulates",
+    "price": 1000,
+    "stock_quantity": 3
+  },
+  {
+    "id": 1779576391219,
+    "name": "Mouse",
+    "description": "Wireless gaming mouse",
+    "price": 50,
+    "stock_quantity": 1
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 0,
+    "user_id": 0,
+    "order_date": "",
+    "total_amount": 0.0,
+    "status": "pending",
+    "items": [
+      {
+        "product_id": 0,
+        "quantity": 0,
+        "price_at_purchase": 0.0
+      }
+    ]
+  }
+]
