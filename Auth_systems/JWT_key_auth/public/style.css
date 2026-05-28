@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  background: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  width: 400px;
+}
+
+h1 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+input,
+button {
+  width: 100%;
+  padding: 12px;
+  margin-top: 10px;
+}
+
+button {
+  cursor: pointer;
+}
+
+.message {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.posts {
+  margin-top: 20px;
+}
+
+.post {
+  padding: 10px;
+  border: 1px solid #ddd;
+  margin-top: 10px;
+}
